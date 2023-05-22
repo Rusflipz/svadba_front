@@ -1,0 +1,125 @@
+.program-block__container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  //height: calc(100vh - 30px);
+  //margin-top: 100px;
+  //font-family: 'Good Vibes Pro', serif;
+}
+
+.program-block__text {
+  margin-top: 100px;
+  font-size: 56px;
+  font-family: 'Good Vibes Pro', serif;
+  padding-bottom: 50px;
+}
+
+.program-block__centre-column {
+  width: 50px;
+}
+
+.program-block__centre-column_point {
+  margin: 0 auto;
+  width: 10px;
+  height: 10px;
+  background-color: black;
+  border-radius: 100%;
+}
+
+.program-block__centre-column_point:first-child {
+  margin-top: 145px;
+}
+
+.program-block__centre-column_line {
+  margin: 0 auto;
+  width: 2px;
+  height: 205px;
+  background-color: black;
+}
+
+.program-block__right-column {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+
+.program-block__left-column {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+}
+
+.program-block__item-image-container {
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.program-block__item-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.program-block__item {
+  height: 215px;
+  overflow: hidden;
+}
+
+.program-block__item-time {
+  font-size: 32px;
+  height: 40px;
+  font-family: 'Good Vibes Pro', serif;
+}
+
+.program-block__item-text {
+  font-size: 16px;
+  height: 45px;
+  font-family: 'DIN Pro', serif;
+}
+
+@media screen and (width > 800px) {
+  .program-block__left-column {
+    width: 300px;
+  }
+
+  .program-block__right-column {
+    width: 300px;
+  }
+
+  .program-block__item-image-container {
+    width: 200px;
+    height: 200px;
+  }
+
+  .program-block__item {
+    height: 360px;
+  }
+
+  .program-block__item-time {
+    height: 70px;
+    font-size: 50px;
+    margin-bottom: 0;
+  }
+
+  .program-block__item-text {
+    height: 80px;
+    font-size: 30px;
+  }
+
+  .program-block__centre-column_line {
+    height: 346px;
+  }
+
+  .program-block__centre-column_point:first-child {
+    margin-top: 240px;
+  }
+  .program-block__centre-column_point {
+    width: 14px;
+    height: 14px;
+  }
+}
