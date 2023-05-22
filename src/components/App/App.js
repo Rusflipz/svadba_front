@@ -7,7 +7,6 @@ import CountDown from "../CountDown/CountDown";
 function App() {
     return (
         <div className="App">
-            {/*<Header/>*/}
             <NameBlock/>
             <WelcomeBlock/>
             <Program/>
