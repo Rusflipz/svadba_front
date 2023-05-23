@@ -5,10 +5,10 @@ import './CountDown.scss'
 function CountDown() {
 
     const [time, setTime] = useState({
-        "d": 1,
-        "h": 1,
-        "m": 1,
-        "s": 1
+        "d": 0,
+        "h": 0,
+        "m": 0,
+        "s": 0
     })
 
     useEffect(() => {
@@ -19,7 +19,10 @@ function CountDown() {
         const currentDate = new Date();
         const weddingDate = new Date(2023, 7, 4, 15, 0, 0);
         const differenceDate = +weddingDate - +currentDate
-
+        if (differenceDate <= 0) {
+            setTime(secondsToTime(0))
+            return;
+        }
         setTime(secondsToTime(differenceDate))
     }
 
