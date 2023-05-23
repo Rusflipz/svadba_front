@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/svadba_front/static/css/main.1cb0776a.css",
+    "main.css": "/svadba_front/static/css/main.c02dd5a7.css",
     "main.js": "/svadba_front/static/js/main.bc3a94ea.js",
     "static/media/golden-wedding-rings-on-the-white-rose-from-the-wedding-bouquet.jpg": "/svadba_front/static/media/golden-wedding-rings-on-the-white-rose-from-the-wedding-bouquet.a686c18242effb29f773.jpg",
     "static/media/GoodVibesPro.eot": "/svadba_front/static/media/GoodVibesPro.70f5f55ab7dce61122a1.eot",
@@ -89,11 +89,11 @@
     "static/media/Caravan.woff2": "/svadba_front/static/media/Caravan.28747b9c3a6236297dd0.woff2",
     "static/media/rings1.jpg": "/svadba_front/static/media/rings1.4a398546fc531d5d061c.jpg",
     "index.html": "/svadba_front/index.html",
-    "main.1cb0776a.css.map": "/svadba_front/static/css/main.1cb0776a.css.map",
+    "main.c02dd5a7.css.map": "/svadba_front/static/css/main.c02dd5a7.css.map",
     "main.bc3a94ea.js.map": "/svadba_front/static/js/main.bc3a94ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cb0776a.css",
+    "static/css/main.c02dd5a7.css",
     "static/js/main.bc3a94ea.js"
   ]
 }
