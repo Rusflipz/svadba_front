@@ -23,8 +23,6 @@ function CountDown() {
         setTime(secondsToTime(differenceDate))
     }
 
-    console.log(time)
-
     function secondsToTime(ms) {
         const seconds = Math.floor((ms / 1000) % 60);
         const minutes = Math.floor((ms / 1000 / 60) % 60);
