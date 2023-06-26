@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/svadba_front/static/css/main.f93ab60a.css",
-    "main.js": "/svadba_front/static/js/main.982cec43.js",
+    "main.css": "/svadba_front/static/css/main.53bb2b8e.css",
+    "main.js": "/svadba_front/static/js/main.e7fe54bb.js",
     "static/media/golden-wedding-rings-on-the-white-rose-from-the-wedding-bouquet.jpg": "/svadba_front/static/media/golden-wedding-rings-on-the-white-rose-from-the-wedding-bouquet.a686c18242effb29f773.jpg",
     "static/media/GoodVibesPro.eot": "/svadba_front/static/media/GoodVibesPro.70f5f55ab7dce61122a1.eot",
     "static/media/GoodVibesPro.ttf": "/svadba_front/static/media/GoodVibesPro.ef3b572c2b9c9c3d1157.ttf",
     "static/media/zags.jpg": "/svadba_front/static/media/zags.40158ffefb6682581091.jpg",
-    "static/media/count2.jpg": "/svadba_front/static/media/count2.35beaf518388b1ddca4e.jpg",
     "static/media/DINPro.eot": "/svadba_front/static/media/DINPro.6e03c893a324ee2269d1.eot",
     "static/media/DINPro-Black.eot": "/svadba_front/static/media/DINPro-Black.11b903f458d4a371b4ef.eot",
     "static/media/DINPro.ttf": "/svadba_front/static/media/DINPro.268a0df3f0e2c23d1ea6.ttf",
@@ -86,14 +85,15 @@
     "static/media/AdineKirnberg.woff": "/svadba_front/static/media/AdineKirnberg.24b8bcc31489d29d2499.woff",
     "static/media/table1.jpg": "/svadba_front/static/media/table1.8db39248ebb8cffd6e45.jpg",
     "static/media/Caravan.woff": "/svadba_front/static/media/Caravan.42d2e3df4a3227e5057f.woff",
+    "static/media/bottom3.jpg": "/svadba_front/static/media/bottom3.36004c22a5ffd7cf94ce.jpg",
     "static/media/Caravan.woff2": "/svadba_front/static/media/Caravan.28747b9c3a6236297dd0.woff2",
     "static/media/rings1.jpg": "/svadba_front/static/media/rings1.4a398546fc531d5d061c.jpg",
     "index.html": "/svadba_front/index.html",
-    "main.f93ab60a.css.map": "/svadba_front/static/css/main.f93ab60a.css.map",
-    "main.982cec43.js.map": "/svadba_front/static/js/main.982cec43.js.map"
+    "main.53bb2b8e.css.map": "/svadba_front/static/css/main.53bb2b8e.css.map",
+    "main.e7fe54bb.js.map": "/svadba_front/static/js/main.e7fe54bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.f93ab60a.css",
-    "static/js/main.982cec43.js"
+    "static/css/main.53bb2b8e.css",
+    "static/js/main.e7fe54bb.js"
   ]
 }
